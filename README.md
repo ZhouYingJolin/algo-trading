@@ -2,6 +2,8 @@
 
 competition:
 https://algogene.com 
+proposal：
+https://www.sciencedirect.com/science/article/pii/S1568494618302151?ref=cra_js_challenge&fr=RR-1
 
 ### •2022: algotrading using grid trading and R-breaker
 
